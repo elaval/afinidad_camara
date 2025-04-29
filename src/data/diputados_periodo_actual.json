@@ -1,0 +1,3958 @@
+[
+  {
+    "idDiputado": "1096",
+    "nombre1": "María Candelaria",
+    "nombre2": "",
+    "nombreCompleto": "María Candelaria Acevedo Sáez",
+    "apellidoPaterno": "Acevedo",
+    "apellidoMaterno": "Sáez",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1097",
+    "nombre1": "Eric",
+    "nombre2": "",
+    "nombreCompleto": "Eric Aedo Jeldres",
+    "apellidoPaterno": "Aedo",
+    "apellidoMaterno": "Jeldres",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1098",
+    "nombre1": "Yovana",
+    "nombre2": "",
+    "nombreCompleto": "Yovana Ahumada Palma",
+    "apellidoPaterno": "Ahumada",
+    "apellidoMaterno": "Palma",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-04-18T23:59:59",
+        "idPartido": "PDG",
+        "nombrePartido": "Partido de la Gente",
+        "aliasPartido": "PDG"
+      },
+      {
+        "fechaInicio": "2023-04-19T00:00:00",
+        "fechaTermino": "2025-03-16T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2025-03-17T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PSC",
+        "nombrePartido": "Partido Social Cristiano",
+        "aliasPartido": "PSC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1009",
+    "nombre1": "Jorge",
+    "nombre2": "",
+    "nombreCompleto": "Jorge Alessandri Vergara",
+    "apellidoPaterno": "Alessandri",
+    "apellidoMaterno": "Vergara",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "803",
+    "nombre1": "René",
+    "nombre2": "",
+    "nombreCompleto": "René Alinco Bustos",
+    "apellidoPaterno": "Alinco",
+    "apellidoMaterno": "Bustos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2010-03-11T00:00:00",
+        "fechaTermino": "2014-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2006-03-11T00:00:00",
+        "fechaTermino": "2010-03-10T23:59:59",
+        "idPartido": "PPD",
+        "nombrePartido": "Partido Por la Democracia",
+        "aliasPartido": "PPD"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1099",
+    "nombre1": "Jaime",
+    "nombre2": "",
+    "nombreCompleto": "Jaime Araya Guerrero",
+    "apellidoPaterno": "Araya",
+    "apellidoMaterno": "Guerrero",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1100",
+    "nombre1": "Cristián",
+    "nombre2": "",
+    "nombreCompleto": "Cristián Araya Lerdo de Tejada",
+    "apellidoPaterno": "Araya",
+    "apellidoMaterno": "Lerdo de Tejada",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1101",
+    "nombre1": "Mónica",
+    "nombre2": "",
+    "nombreCompleto": "Mónica Arce Castro",
+    "apellidoPaterno": "Arce",
+    "apellidoMaterno": "Castro",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1102",
+    "nombre1": "Roberto",
+    "nombre2": "",
+    "nombreCompleto": "Roberto Arroyo Muñoz",
+    "apellidoPaterno": "Arroyo",
+    "apellidoMaterno": "Muñoz",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-11-07T23:59:59",
+        "idPartido": "PDG",
+        "nombrePartido": "Partido de la Gente",
+        "aliasPartido": "PDG"
+      },
+      {
+        "fechaInicio": "2023-11-08T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PSC",
+        "nombrePartido": "Partido Social Cristiano",
+        "aliasPartido": "PSC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1103",
+    "nombre1": "Danisa",
+    "nombre2": "",
+    "nombreCompleto": "Danisa Astudillo Peiretti",
+    "apellidoPaterno": "Astudillo",
+    "apellidoMaterno": "Peiretti",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1104",
+    "nombre1": "Chiara",
+    "nombre2": "",
+    "nombreCompleto": "Chiara Barchiesi Chávez",
+    "apellidoPaterno": "Barchiesi",
+    "apellidoMaterno": "Chávez",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1012",
+    "nombre1": "Boris",
+    "nombre2": "",
+    "nombreCompleto": "Boris Barrera Moreno",
+    "apellidoPaterno": "Barrera",
+    "apellidoMaterno": "Moreno",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1105",
+    "nombre1": "Héctor",
+    "nombre2": "",
+    "nombreCompleto": "Héctor Barría Angulo",
+    "apellidoPaterno": "Barría",
+    "apellidoMaterno": "Angulo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1106",
+    "nombre1": "Miguel Ángel",
+    "nombre2": "",
+    "nombreCompleto": "Miguel Ángel Becker Alvear",
+    "apellidoPaterno": "Becker",
+    "apellidoMaterno": "Alvear",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1107",
+    "nombre1": "María Francisca",
+    "nombre2": "",
+    "nombreCompleto": "María Francisca Bello Campos",
+    "apellidoPaterno": "Bello",
+    "apellidoMaterno": "Campos",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1108",
+    "nombre1": "Juan Carlos",
+    "nombre2": "",
+    "nombreCompleto": "Juan Carlos Beltrán Silva",
+    "apellidoPaterno": "Beltrán",
+    "apellidoMaterno": "Silva",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1109",
+    "nombre1": "Gustavo",
+    "nombre2": "",
+    "nombreCompleto": "Gustavo Benavente Vergara",
+    "apellidoPaterno": "Benavente",
+    "apellidoMaterno": "Vergara",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "971",
+    "nombre1": "Bernardo",
+    "nombre2": "",
+    "nombreCompleto": "Bernardo Berger Fett",
+    "apellidoPaterno": "Berger",
+    "apellidoMaterno": "Fett",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1013",
+    "nombre1": "Alejandro",
+    "nombre2": "",
+    "nombreCompleto": "Alejandro Bernales Maldonado",
+    "apellidoPaterno": "Bernales",
+    "apellidoMaterno": "Maldonado",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "LIBERAL",
+        "nombrePartido": "Partido Liberal de Chile",
+        "aliasPartido": "LIBERAL"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "LIBERAL",
+        "nombrePartido": "Partido Liberal de Chile",
+        "aliasPartido": "LIBERAL"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1110",
+    "nombre1": "Carlos",
+    "nombre2": "",
+    "nombreCompleto": "Carlos Bianchi Chelech",
+    "apellidoPaterno": "Bianchi",
+    "apellidoMaterno": "Chelech",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "815",
+    "nombre1": "Sergio",
+    "nombre2": "",
+    "nombreCompleto": "Sergio Bobadilla Muñoz",
+    "apellidoPaterno": "Bobadilla",
+    "apellidoMaterno": "Muñoz",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2010-03-11T00:00:00",
+        "fechaTermino": "2014-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2006-03-11T00:00:00",
+        "fechaTermino": "2010-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1111",
+    "nombre1": "Fernando",
+    "nombre2": "",
+    "nombreCompleto": "Fernando Bórquez Montecinos",
+    "apellidoPaterno": "Bórquez",
+    "apellidoMaterno": "Montecinos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1112",
+    "nombre1": "Ana María",
+    "nombre2": "",
+    "nombreCompleto": "Ana María Bravo Castro",
+    "apellidoPaterno": "Bravo",
+    "apellidoMaterno": "Castro",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1113",
+    "nombre1": "Marta",
+    "nombre2": "",
+    "nombreCompleto": "Marta Bravo Salinas",
+    "apellidoPaterno": "Bravo",
+    "apellidoMaterno": "Salinas",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1015",
+    "nombre1": "Jorge",
+    "nombre2": "",
+    "nombreCompleto": "Jorge Brito Hasbún",
+    "apellidoPaterno": "Brito",
+    "apellidoMaterno": "Hasbún",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1114",
+    "nombre1": "Félix",
+    "nombre2": "",
+    "nombreCompleto": "Félix Bugueño Sotelo",
+    "apellidoPaterno": "Bugueño",
+    "apellidoMaterno": "Sotelo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-06-12T23:59:59",
+        "idPartido": "FRVS",
+        "nombrePartido": "Federación Regionalista Verde Social",
+        "aliasPartido": "FRVS"
+      },
+      {
+        "fechaInicio": "2022-06-13T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1115",
+    "nombre1": "Mercedes",
+    "nombre2": "",
+    "nombreCompleto": "Mercedes Bulnes Núñez",
+    "apellidoPaterno": "Bulnes",
+    "apellidoMaterno": "Núñez",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1016",
+    "nombre1": "Miguel Ángel",
+    "nombre2": "",
+    "nombreCompleto": "Miguel Ángel Calisto Águila",
+    "apellidoPaterno": "Calisto",
+    "apellidoMaterno": "Águila",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-03-08T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2023-03-09T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1116",
+    "nombre1": "Felipe",
+    "nombre2": "",
+    "nombreCompleto": "Felipe Camaño Cárdenas",
+    "apellidoPaterno": "Camaño",
+    "apellidoMaterno": "Cárdenas",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "973",
+    "nombre1": "Karol",
+    "nombre2": "",
+    "nombreCompleto": "Karol Cariola Oliva",
+    "apellidoPaterno": "Cariola",
+    "apellidoMaterno": "Oliva",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1017",
+    "nombre1": "Álvaro",
+    "nombre2": "",
+    "nombreCompleto": "Álvaro Carter Fernández",
+    "apellidoPaterno": "Carter",
+    "apellidoMaterno": "Fernández",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2025-03-18T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2020-09-29T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2025-03-18T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2025-03-19T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1117",
+    "nombre1": "Nathalie",
+    "nombre2": "",
+    "nombreCompleto": "Nathalie Castillo Rojas",
+    "apellidoPaterno": "Castillo",
+    "apellidoMaterno": "Rojas",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1019",
+    "nombre1": "José Miguel",
+    "nombre2": "",
+    "nombreCompleto": "José Miguel Castro Bascuñán",
+    "apellidoPaterno": "Castro",
+    "apellidoMaterno": "Bascuñán",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1021",
+    "nombre1": "Andrés",
+    "nombre2": "",
+    "nombreCompleto": "Andrés Celis Montt",
+    "apellidoPaterno": "Celis",
+    "apellidoMaterno": "Montt",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "975",
+    "nombre1": "Daniella",
+    "nombre2": "",
+    "nombreCompleto": "Daniella Cicardini Milla",
+    "apellidoPaterno": "Cicardini",
+    "apellidoMaterno": "Milla",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1022",
+    "nombre1": "Sofía",
+    "nombre2": "",
+    "nombreCompleto": "Sofía Cid Versalovic",
+    "apellidoPaterno": "Cid",
+    "apellidoMaterno": "Versalovic",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-08-05T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2024-08-06T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1118",
+    "nombre1": "Ricardo",
+    "nombre2": "",
+    "nombreCompleto": "Ricardo Cifuentes Lillo",
+    "apellidoPaterno": "Cifuentes",
+    "apellidoMaterno": "Lillo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "976",
+    "nombre1": "Juan Antonio",
+    "nombre2": "",
+    "nombreCompleto": "Juan Antonio Coloma Álamos",
+    "apellidoPaterno": "Coloma",
+    "apellidoMaterno": "Álamos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1119",
+    "nombre1": "Sara",
+    "nombre2": "",
+    "nombreCompleto": "Sara Concha Smith",
+    "apellidoPaterno": "Concha",
+    "apellidoMaterno": "Smith",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2023-03-22T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PSC",
+        "nombrePartido": "Partido Social Cristiano",
+        "aliasPartido": "PSC"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-03-21T23:59:59",
+        "idPartido": "PCC",
+        "nombrePartido": "Partido Conservador Cristiano",
+        "aliasPartido": "PCC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1120",
+    "nombre1": "María Luisa",
+    "nombre2": "",
+    "nombreCompleto": "María Luisa Cordero Velásquez",
+    "apellidoPaterno": "Cordero",
+    "apellidoMaterno": "Velásquez",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1121",
+    "nombre1": "Eduardo",
+    "nombre2": "",
+    "nombreCompleto": "Eduardo Cornejo Lagos",
+    "apellidoPaterno": "Cornejo",
+    "apellidoMaterno": "Lagos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1122",
+    "nombre1": "Luis Alberto",
+    "nombre2": "",
+    "nombreCompleto": "Luis Alberto Cuello Peña y Lillo",
+    "apellidoPaterno": "Cuello",
+    "apellidoMaterno": "Peña y Lillo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1123",
+    "nombre1": "Gonzalo",
+    "nombre2": "",
+    "nombreCompleto": "Gonzalo De la Carrera Correa",
+    "apellidoPaterno": "De la Carrera",
+    "apellidoMaterno": "Correa",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2022-08-31T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      },
+      {
+        "fechaInicio": "2022-09-01T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1124",
+    "nombre1": "Tomás",
+    "nombre2": "",
+    "nombreCompleto": "Tomás De Rementería Venegas",
+    "apellidoPaterno": "De Rementería",
+    "apellidoMaterno": "Venegas",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1025",
+    "nombre1": "Catalina",
+    "nombre2": "",
+    "nombreCompleto": "Catalina Del Real Mihovilovic",
+    "apellidoPaterno": "Del Real",
+    "apellidoMaterno": "Mihovilovic",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-08-22T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2023-08-23T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1125",
+    "nombre1": "Viviana",
+    "nombre2": "",
+    "nombreCompleto": "Viviana Delgado Riquelme",
+    "apellidoPaterno": "Delgado",
+    "apellidoMaterno": "Riquelme",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-04-03T23:59:59",
+        "idPartido": "PEV",
+        "nombrePartido": "Partido Ecologista Verde",
+        "aliasPartido": "PEV"
+      },
+      {
+        "fechaInicio": "2023-04-04T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1126",
+    "nombre1": "Felipe",
+    "nombre2": "",
+    "nombreCompleto": "Felipe Donoso Castro",
+    "apellidoPaterno": "Donoso",
+    "apellidoMaterno": "Castro",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1027",
+    "nombre1": "Jorge",
+    "nombre2": "",
+    "nombreCompleto": "Jorge Durán Espinoza",
+    "apellidoPaterno": "Durán",
+    "apellidoMaterno": "Espinoza",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1028",
+    "nombre1": "Eduardo",
+    "nombre2": "",
+    "nombreCompleto": "Eduardo Durán Salinas",
+    "apellidoPaterno": "Durán",
+    "apellidoMaterno": "Salinas",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1030",
+    "nombre1": "Camila",
+    "nombre2": "",
+    "nombreCompleto": "Camila Flores Oporto",
+    "apellidoPaterno": "Flores",
+    "apellidoMaterno": "Oporto",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1127",
+    "nombre1": "Lorena",
+    "nombre2": "",
+    "nombreCompleto": "Lorena Fries Monleón",
+    "apellidoPaterno": "Fries",
+    "apellidoMaterno": "Monleón",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-03-27T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2023-03-28T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1031",
+    "nombre1": "Juan",
+    "nombre2": "",
+    "nombreCompleto": "Juan Fuenzalida Cobo",
+    "apellidoPaterno": "Fuenzalida",
+    "apellidoMaterno": "Cobo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1128",
+    "nombre1": "Ana María",
+    "nombre2": "",
+    "nombreCompleto": "Ana María Gazmuri Vieira",
+    "apellidoPaterno": "Gazmuri",
+    "apellidoMaterno": "Vieira",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-03-06T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2023-03-07T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PAH",
+        "nombrePartido": "Partido Acción Humanista",
+        "aliasPartido": "PAH"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1129",
+    "nombre1": "Andrés",
+    "nombre2": "",
+    "nombreCompleto": "Andrés Giordano Salazar",
+    "apellidoPaterno": "Giordano",
+    "apellidoMaterno": "Salazar",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1034",
+    "nombre1": "Félix",
+    "nombre2": "",
+    "nombreCompleto": "Félix González Gatica",
+    "apellidoPaterno": "González",
+    "apellidoMaterno": "Gatica",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PEV",
+        "nombrePartido": "Partido Ecologista Verde",
+        "aliasPartido": "PEV"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PEV",
+        "nombrePartido": "Partido Ecologista Verde",
+        "aliasPartido": "PEV"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1130",
+    "nombre1": "Marta",
+    "nombre2": "",
+    "nombreCompleto": "Marta González Olea",
+    "apellidoPaterno": "González",
+    "apellidoMaterno": "Olea",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1131",
+    "nombre1": "Mauro",
+    "nombre2": "",
+    "nombreCompleto": "Mauro González Villarroel",
+    "apellidoPaterno": "González",
+    "apellidoMaterno": "Villarroel",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1132",
+    "nombre1": "Jorge",
+    "nombre2": "",
+    "nombreCompleto": "Jorge Guzmán Zepeda",
+    "apellidoPaterno": "Guzmán",
+    "apellidoMaterno": "Zepeda",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "EVOP",
+        "nombrePartido": "Evolución Política",
+        "aliasPartido": "EVOP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1035",
+    "nombre1": "Carmen",
+    "nombre2": "",
+    "nombreCompleto": "Carmen Hertz Cádiz",
+    "apellidoPaterno": "Hertz",
+    "apellidoMaterno": "Cádiz",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1036",
+    "nombre1": "Tomás",
+    "nombre2": "",
+    "nombreCompleto": "Tomás Hirsch Goldschmidt",
+    "apellidoPaterno": "Hirsch",
+    "apellidoMaterno": "Goldschmidt",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2020-05-05T23:59:59",
+        "idPartido": "PH",
+        "nombrePartido": "Partido Humanista",
+        "aliasPartido": "PH"
+      },
+      {
+        "fechaInicio": "2020-05-06T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-03-06T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2023-03-07T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PAH",
+        "nombrePartido": "Partido Acción Humanista",
+        "aliasPartido": "PAH"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1037",
+    "nombre1": "Diego",
+    "nombre2": "",
+    "nombreCompleto": "Diego Ibáñez Cotroneo",
+    "apellidoPaterno": "Ibáñez",
+    "apellidoMaterno": "Cotroneo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2020-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2020-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1038",
+    "nombre1": "Marcos",
+    "nombre2": "",
+    "nombreCompleto": "Marcos Ilabaca Cerda",
+    "apellidoPaterno": "Ilabaca",
+    "apellidoMaterno": "Cerda",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1133",
+    "nombre1": "Juan",
+    "nombre2": "",
+    "nombreCompleto": "Juan Irarrázaval Rossel",
+    "apellidoPaterno": "Irarrázaval",
+    "apellidoMaterno": "Rossel",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1039",
+    "nombre1": "Pamela",
+    "nombre2": "",
+    "nombreCompleto": "Pamela Jiles Moreno",
+    "apellidoPaterno": "Jiles",
+    "apellidoMaterno": "Moreno",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PH",
+        "nombrePartido": "Partido Humanista",
+        "aliasPartido": "PH"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PH",
+        "nombrePartido": "Partido Humanista",
+        "aliasPartido": "PH"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1134",
+    "nombre1": "Andrés",
+    "nombre2": "",
+    "nombreCompleto": "Andrés Jouannet Valderrama",
+    "apellidoPaterno": "Jouannet",
+    "apellidoMaterno": "Valderrama",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-07-17T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2023-07-18T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "AMA",
+        "nombrePartido": "Movimiento Amarillos por Chile",
+        "aliasPartido": "AMA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1040",
+    "nombre1": "Harry",
+    "nombre2": "",
+    "nombreCompleto": "Harry Jürgensen Rundshagen",
+    "apellidoPaterno": "Jürgensen",
+    "apellidoMaterno": "Rundshagen",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1135",
+    "nombre1": "Johannes",
+    "nombre2": "",
+    "nombreCompleto": "Johannes Kaiser Barents-Von Hohenhagen",
+    "apellidoPaterno": "Kaiser",
+    "apellidoMaterno": "Barents-Von Hohenhagen",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-01-09T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      },
+      {
+        "fechaInicio": "2024-01-10T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1094",
+    "nombre1": "Cristian",
+    "nombre2": "",
+    "nombreCompleto": "Cristian Labbé Martínez",
+    "apellidoPaterno": "Labbé",
+    "apellidoMaterno": "Martínez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2021-04-13T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1136",
+    "nombre1": "Paula",
+    "nombre2": "",
+    "nombreCompleto": "Paula Labra Besserer",
+    "apellidoPaterno": "Labra",
+    "apellidoMaterno": "Besserer",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1137",
+    "nombre1": "Tomás",
+    "nombre2": "",
+    "nombreCompleto": "Tomás Lagomarsino Guzmán",
+    "apellidoPaterno": "Lagomarsino",
+    "apellidoMaterno": "Guzmán",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "989",
+    "nombre1": "Joaquín",
+    "nombre2": "",
+    "nombreCompleto": "Joaquín Lavín León",
+    "apellidoPaterno": "Lavín",
+    "apellidoMaterno": "León",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1138",
+    "nombre1": "Henry",
+    "nombre2": "",
+    "nombreCompleto": "Henry Leal Bizama",
+    "apellidoPaterno": "Leal",
+    "apellidoMaterno": "Bizama",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1139",
+    "nombre1": "Enrique",
+    "nombre2": "",
+    "nombreCompleto": "Enrique Lee Flores",
+    "apellidoPaterno": "Lee",
+    "apellidoMaterno": "Flores",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-08-28T23:59:59",
+        "idPartido": "PRI",
+        "nombrePartido": "Partido Regionalista Independiente",
+        "aliasPartido": "PRI"
+      },
+      {
+        "fechaInicio": "2024-08-29T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1044",
+    "nombre1": "Raúl",
+    "nombre2": "",
+    "nombreCompleto": "Raúl Leiva Carvajal",
+    "apellidoPaterno": "Leiva",
+    "apellidoMaterno": "Carvajal",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1140",
+    "nombre1": "Daniel",
+    "nombre2": "",
+    "nombreCompleto": "Daniel Lilayu Vivanco",
+    "apellidoPaterno": "Lilayu",
+    "apellidoMaterno": "Vivanco",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1046",
+    "nombre1": "Andrés",
+    "nombre2": "",
+    "nombreCompleto": "Andrés Longton Herrera",
+    "apellidoPaterno": "Longton",
+    "apellidoMaterno": "Herrera",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1141",
+    "nombre1": "Luis",
+    "nombre2": "",
+    "nombreCompleto": "Luis Malla Valenzuela",
+    "apellidoPaterno": "Malla",
+    "apellidoMaterno": "Valenzuela",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "LIBERAL",
+        "nombrePartido": "Partido Liberal de Chile",
+        "aliasPartido": "LIBERAL"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1142",
+    "nombre1": "Daniel",
+    "nombre2": "",
+    "nombreCompleto": "Daniel Manouchehri Lobos",
+    "apellidoPaterno": "Manouchehri",
+    "apellidoMaterno": "Lobos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1143",
+    "nombre1": "Cristóbal",
+    "nombre2": "",
+    "nombreCompleto": "Cristóbal Martínez Ramírez",
+    "apellidoPaterno": "Martínez",
+    "apellidoMaterno": "Ramírez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1048",
+    "nombre1": "Carolina",
+    "nombre2": "",
+    "nombreCompleto": "Carolina Marzán Pinto",
+    "apellidoPaterno": "Marzán",
+    "apellidoMaterno": "Pinto",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PPD",
+        "nombrePartido": "Partido Por la Democracia",
+        "aliasPartido": "PPD"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PPD",
+        "nombrePartido": "Partido Por la Democracia",
+        "aliasPartido": "PPD"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1144",
+    "nombre1": "Christian",
+    "nombre2": "",
+    "nombreCompleto": "Christian Matheson Villán",
+    "apellidoPaterno": "Matheson",
+    "apellidoMaterno": "Villán",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1145",
+    "nombre1": "Karen",
+    "nombre2": "",
+    "nombreCompleto": "Karen Medina Vásquez",
+    "apellidoPaterno": "Medina",
+    "apellidoMaterno": "Vásquez",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-08-06T23:59:59",
+        "idPartido": "PDG",
+        "nombrePartido": "Partido de la Gente",
+        "aliasPartido": "PDG"
+      },
+      {
+        "fechaInicio": "2024-08-07T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1049",
+    "nombre1": "Cosme",
+    "nombre2": "",
+    "nombreCompleto": "Cosme Mellado Pino",
+    "apellidoPaterno": "Mellado",
+    "apellidoMaterno": "Pino",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PR",
+        "nombrePartido": "Partido Radical de Chile",
+        "aliasPartido": "PR"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PR",
+        "nombrePartido": "Partido Radical de Chile",
+        "aliasPartido": "PR"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1050",
+    "nombre1": "Miguel",
+    "nombre2": "",
+    "nombreCompleto": "Miguel Mellado Suazo",
+    "apellidoPaterno": "Mellado",
+    "apellidoMaterno": "Suazo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "990",
+    "nombre1": "Daniel",
+    "nombre2": "",
+    "nombreCompleto": "Daniel Melo Contreras",
+    "apellidoPaterno": "Melo",
+    "apellidoMaterno": "Contreras",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1146",
+    "nombre1": "José Carlos",
+    "nombre2": "",
+    "nombreCompleto": "José Carlos Meza Pereira",
+    "apellidoPaterno": "Meza",
+    "apellidoMaterno": "Pereira",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "991",
+    "nombre1": "Vlado",
+    "nombre2": "",
+    "nombreCompleto": "Vlado Mirosevic Verdugo",
+    "apellidoPaterno": "Mirosevic",
+    "apellidoMaterno": "Verdugo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "PL",
+        "nombrePartido": "Partido Liberal de Chile",
+        "aliasPartido": "PL"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "LIBERAL",
+        "nombrePartido": "Partido Liberal de Chile",
+        "aliasPartido": "LIBERAL"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "LIBERAL",
+        "nombrePartido": "Partido Liberal de Chile",
+        "aliasPartido": "LIBERAL"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1051",
+    "nombre1": "Claudia",
+    "nombre2": "",
+    "nombreCompleto": "Claudia Mix Jiménez",
+    "apellidoPaterno": "Mix",
+    "apellidoMaterno": "Jiménez",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "COMUNES",
+        "nombrePartido": "Partido Comunes",
+        "aliasPartido": "COMUNES"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "COMUNES",
+        "nombrePartido": "Partido Comunes",
+        "aliasPartido": "COMUNES"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1147",
+    "nombre1": "Helia",
+    "nombre2": "",
+    "nombreCompleto": "Helia Molina Milman",
+    "apellidoPaterno": "Molina",
+    "apellidoMaterno": "Milman",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PPD",
+        "nombrePartido": "Partido Por la Democracia",
+        "aliasPartido": "PPD"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1148",
+    "nombre1": "Javiera",
+    "nombre2": "",
+    "nombreCompleto": "Javiera Morales Alvarado",
+    "apellidoPaterno": "Morales",
+    "apellidoMaterno": "Alvarado",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2022-04-11T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-04-12T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1149",
+    "nombre1": "Carla",
+    "nombre2": "",
+    "nombreCompleto": "Carla Morales Maldonado",
+    "apellidoPaterno": "Morales",
+    "apellidoMaterno": "Maldonado",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1053",
+    "nombre1": "Cristhian",
+    "nombre2": "",
+    "nombreCompleto": "Cristhian Moreira Barros",
+    "apellidoPaterno": "Moreira",
+    "apellidoMaterno": "Barros",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1150",
+    "nombre1": "Benjamín",
+    "nombre2": "",
+    "nombreCompleto": "Benjamín Moreno Bascur",
+    "apellidoPaterno": "Moreno",
+    "apellidoMaterno": "Bascur",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "872",
+    "nombre1": "Jaime",
+    "nombre2": "",
+    "nombreCompleto": "Jaime Mulet Martínez",
+    "apellidoPaterno": "Mulet",
+    "apellidoMaterno": "Martínez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "1998-03-11T00:00:00",
+        "fechaTermino": "2002-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2002-03-11T00:00:00",
+        "fechaTermino": "2006-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "FRVS",
+        "nombrePartido": "Federación Regionalista Verde Social",
+        "aliasPartido": "FRVS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FRVS",
+        "nombrePartido": "Federación Regionalista Verde Social",
+        "aliasPartido": "FRVS"
+      },
+      {
+        "fechaInicio": "2006-03-11T00:00:00",
+        "fechaTermino": "2010-03-10T23:59:59",
+        "idPartido": "PRI",
+        "nombrePartido": "Partido Regionalista Independiente",
+        "aliasPartido": "PRI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1054",
+    "nombre1": "Francesca",
+    "nombre2": "",
+    "nombreCompleto": "Francesca Muñoz González",
+    "apellidoPaterno": "Muñoz",
+    "apellidoMaterno": "González",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-12-12T00:00:00",
+        "fechaTermino": "2023-05-30T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2022-12-11T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2023-05-31T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PSC",
+        "nombrePartido": "Partido Social Cristiano",
+        "aliasPartido": "PSC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1151",
+    "nombre1": "Camila",
+    "nombre2": "",
+    "nombreCompleto": "Camila Musante Müller",
+    "apellidoPaterno": "Musante",
+    "apellidoMaterno": "Müller",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "74",
+    "nombre1": "Jaime",
+    "nombre2": "",
+    "nombreCompleto": "Jaime Naranjo Ortiz",
+    "apellidoPaterno": "Naranjo",
+    "apellidoMaterno": "Ortiz",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "1990-03-11T00:00:00",
+        "fechaTermino": "1994-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "1994-03-11T00:00:00",
+        "fechaTermino": "1998-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "1998-03-11T00:00:00",
+        "fechaTermino": "2002-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1152",
+    "nombre1": "Gloria",
+    "nombre2": "",
+    "nombreCompleto": "Gloria Naveillan Arriagada",
+    "apellidoPaterno": "Naveillan",
+    "apellidoMaterno": "Arriagada",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2022-09-06T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      },
+      {
+        "fechaInicio": "2022-09-07T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1056",
+    "nombre1": "Emilia",
+    "nombre2": "",
+    "nombreCompleto": "Emilia Nuyado Ancapichún",
+    "apellidoPaterno": "Nuyado",
+    "apellidoMaterno": "Ancapichún",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1153",
+    "nombre1": "Coca Ericka",
+    "nombre2": "",
+    "nombreCompleto": "Coca Ericka Ñanco Vásquez",
+    "apellidoPaterno": "Ñanco",
+    "apellidoMaterno": "Vásquez",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1154",
+    "nombre1": "Mauricio",
+    "nombre2": "",
+    "nombreCompleto": "Mauricio Ojeda Rebolledo",
+    "apellidoPaterno": "Ojeda",
+    "apellidoMaterno": "Rebolledo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1057",
+    "nombre1": "Erika",
+    "nombre2": "",
+    "nombreCompleto": "Erika Olivera De La Fuente",
+    "apellidoPaterno": "Olivera",
+    "apellidoMaterno": "De La Fuente",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-09-04T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2023-09-05T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DEM",
+        "nombrePartido": "Partido Demócratas Chile",
+        "aliasPartido": "DEM"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1058",
+    "nombre1": "Maite",
+    "nombre2": "",
+    "nombreCompleto": "Maite Orsini Pascal",
+    "apellidoPaterno": "Orsini",
+    "apellidoMaterno": "Pascal",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1059",
+    "nombre1": "Ximena",
+    "nombre2": "",
+    "nombreCompleto": "Ximena Ossandón Irarrázabal",
+    "apellidoPaterno": "Ossandón",
+    "apellidoMaterno": "Irarrázabal",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1155",
+    "nombre1": "Rubén Darío",
+    "nombre2": "",
+    "nombreCompleto": "Rubén Darío Oyarzo Figueroa",
+    "apellidoPaterno": "Oyarzo",
+    "apellidoMaterno": "Figueroa",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-04-15T23:59:59",
+        "idPartido": "PDG",
+        "nombrePartido": "Partido de la Gente",
+        "aliasPartido": "PDG"
+      },
+      {
+        "fechaInicio": "2024-04-16T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1156",
+    "nombre1": "Hernán",
+    "nombre2": "",
+    "nombreCompleto": "Hernán Palma Pérez",
+    "apellidoPaterno": "Palma",
+    "apellidoMaterno": "Pérez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1157",
+    "nombre1": "Marlene",
+    "nombre2": "",
+    "nombreCompleto": "Marlene Pérez Cartes",
+    "apellidoPaterno": "Pérez",
+    "apellidoMaterno": "Cartes",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1062",
+    "nombre1": "Joanna",
+    "nombre2": "",
+    "nombreCompleto": "Joanna Pérez Olea",
+    "apellidoPaterno": "Pérez",
+    "apellidoMaterno": "Olea",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2022-12-12T00:00:00",
+        "fechaTermino": "2023-09-04T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2022-12-11T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2023-09-05T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DEM",
+        "nombrePartido": "Partido Demócratas Chile",
+        "aliasPartido": "DEM"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1063",
+    "nombre1": "Catalina",
+    "nombre2": "",
+    "nombreCompleto": "Catalina Pérez Salinas",
+    "apellidoPaterno": "Pérez",
+    "apellidoMaterno": "Salinas",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1158",
+    "nombre1": "Víctor Alejandro",
+    "nombre2": "",
+    "nombreCompleto": "Víctor Alejandro Pino Fuentes",
+    "apellidoPaterno": "Pino",
+    "apellidoMaterno": "Fuentes",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-04-13T23:59:59",
+        "idPartido": "PDG",
+        "nombrePartido": "Partido de la Gente",
+        "aliasPartido": "PDG"
+      },
+      {
+        "fechaInicio": "2023-04-14T00:00:00",
+        "fechaTermino": "2024-05-14T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2024-05-15T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DEM",
+        "nombrePartido": "Partido Demócratas Chile",
+        "aliasPartido": "DEM"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1159",
+    "nombre1": "Lorena",
+    "nombre2": "",
+    "nombreCompleto": "Lorena Pizarro Sierra",
+    "apellidoPaterno": "Pizarro",
+    "apellidoMaterno": "Sierra",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1160",
+    "nombre1": "Alejandra",
+    "nombre2": "",
+    "nombreCompleto": "Alejandra Placencia Cabello",
+    "apellidoPaterno": "Placencia",
+    "apellidoMaterno": "Cabello",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1161",
+    "nombre1": "Francisco",
+    "nombre2": "",
+    "nombreCompleto": "Francisco Pulgar Castillo",
+    "apellidoPaterno": "Pulgar",
+    "apellidoMaterno": "Castillo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1065",
+    "nombre1": "Guillermo",
+    "nombre2": "",
+    "nombreCompleto": "Guillermo Ramírez Diez",
+    "apellidoPaterno": "Ramírez",
+    "apellidoMaterno": "Diez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1162",
+    "nombre1": "Matías",
+    "nombre2": "",
+    "nombreCompleto": "Matías Ramírez Pascal",
+    "apellidoPaterno": "Ramírez",
+    "apellidoMaterno": "Pascal",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1163",
+    "nombre1": "Marcia",
+    "nombre2": "",
+    "nombreCompleto": "Marcia Raphael Mora",
+    "apellidoPaterno": "Raphael",
+    "apellidoMaterno": "Mora",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "999",
+    "nombre1": "Jorge",
+    "nombre2": "",
+    "nombreCompleto": "Jorge Rathgeb Schifferli",
+    "apellidoPaterno": "Rathgeb",
+    "apellidoMaterno": "Schifferli",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1067",
+    "nombre1": "Hugo",
+    "nombre2": "",
+    "nombreCompleto": "Hugo Rey Martínez",
+    "apellidoPaterno": "Rey",
+    "apellidoMaterno": "Martínez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1164",
+    "nombre1": "Marcela",
+    "nombre2": "",
+    "nombreCompleto": "Marcela Riquelme Aliaga",
+    "apellidoPaterno": "Riquelme",
+    "apellidoMaterno": "Aliaga",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "948",
+    "nombre1": "Gaspar",
+    "nombre2": "",
+    "nombreCompleto": "Gaspar Rivas Sánchez",
+    "apellidoPaterno": "Rivas",
+    "apellidoMaterno": "Sánchez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2010-03-11T00:00:00",
+        "fechaTermino": "2014-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-08-26T23:59:59",
+        "idPartido": "PDG",
+        "nombrePartido": "Partido de la Gente",
+        "aliasPartido": "PDG"
+      },
+      {
+        "fechaInicio": "2024-08-27T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2014-08-14T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1068",
+    "nombre1": "Camila",
+    "nombre2": "",
+    "nombreCompleto": "Camila Rojas Valderrama",
+    "apellidoPaterno": "Rojas",
+    "apellidoMaterno": "Valderrama",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2018-05-30T16:21:48",
+        "idPartido": "IGUAL",
+        "nombrePartido": "Partido Igualdad",
+        "aliasPartido": "IGUAL"
+      },
+      {
+        "fechaInicio": "2018-05-30T16:22:26",
+        "fechaTermino": "2020-03-09T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2020-03-10T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "COMUNES",
+        "nombrePartido": "Partido Comunes",
+        "aliasPartido": "COMUNES"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "COMUNES",
+        "nombrePartido": "Partido Comunes",
+        "aliasPartido": "COMUNES"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1165",
+    "nombre1": "Agustín",
+    "nombre2": "",
+    "nombreCompleto": "Agustín Romero Leiva",
+    "apellidoPaterno": "Romero",
+    "apellidoMaterno": "Leiva",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1069",
+    "nombre1": "Leonidas",
+    "nombre2": "",
+    "nombreCompleto": "Leonidas Romero Sáez",
+    "apellidoPaterno": "Romero",
+    "apellidoMaterno": "Sáez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2022-09-12T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-09-13T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1166",
+    "nombre1": "Natalia",
+    "nombre2": "",
+    "nombreCompleto": "Natalia Romero Talguia",
+    "apellidoPaterno": "Romero",
+    "apellidoMaterno": "Talguia",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1070",
+    "nombre1": "Patricio",
+    "nombre2": "",
+    "nombreCompleto": "Patricio Rosas Barrientos",
+    "apellidoPaterno": "Rosas",
+    "apellidoMaterno": "Barrientos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2019-06-19T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2019-06-18T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1167",
+    "nombre1": "Jaime",
+    "nombre2": "",
+    "nombreCompleto": "Jaime Sáez Quiroz",
+    "apellidoPaterno": "Sáez",
+    "apellidoMaterno": "Quiroz",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1168",
+    "nombre1": "Jorge",
+    "nombre2": "",
+    "nombreCompleto": "Jorge Saffirio Espinoza",
+    "apellidoPaterno": "Saffirio",
+    "apellidoMaterno": "Espinoza",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-12-12T00:00:00",
+        "fechaTermino": "2023-09-04T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2022-12-11T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2023-09-05T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DEM",
+        "nombrePartido": "Partido Demócratas Chile",
+        "aliasPartido": "DEM"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1169",
+    "nombre1": "Clara",
+    "nombre2": "",
+    "nombreCompleto": "Clara Sagardia Cabezas",
+    "apellidoPaterno": "Sagardia",
+    "apellidoMaterno": "Cabezas",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1170",
+    "nombre1": "Luis",
+    "nombre2": "",
+    "nombreCompleto": "Luis Sánchez Ossa",
+    "apellidoPaterno": "Sánchez",
+    "apellidoMaterno": "Ossa",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1073",
+    "nombre1": "Juan",
+    "nombre2": "",
+    "nombreCompleto": "Juan Santana Castillo",
+    "apellidoPaterno": "Santana",
+    "apellidoMaterno": "Castillo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1074",
+    "nombre1": "Marisela",
+    "nombre2": "",
+    "nombreCompleto": "Marisela Santibáñez Novoa",
+    "apellidoPaterno": "Santibáñez",
+    "apellidoMaterno": "Novoa",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2019-04-17T00:00:00",
+        "fechaTermino": "2019-09-26T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2019-04-16T23:59:59",
+        "idPartido": "PRO",
+        "nombrePartido": "Partido Progresista",
+        "aliasPartido": "PRO"
+      },
+      {
+        "fechaInicio": "2019-09-27T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-01-16T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      },
+      {
+        "fechaInicio": "2024-01-17T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "953",
+    "nombre1": "Frank",
+    "nombre2": "",
+    "nombreCompleto": "Frank Sauerbaum Muñoz",
+    "apellidoPaterno": "Sauerbaum",
+    "apellidoMaterno": "Muñoz",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2010-03-11T00:00:00",
+        "fechaTermino": "2014-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1075",
+    "nombre1": "Diego",
+    "nombre2": "",
+    "nombreCompleto": "Diego Schalper Sepúlveda",
+    "apellidoPaterno": "Schalper",
+    "apellidoMaterno": "Sepúlveda",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1171",
+    "nombre1": "Emilia",
+    "nombre2": "",
+    "nombreCompleto": "Emilia Schneider Videla",
+    "apellidoPaterno": "Schneider",
+    "apellidoMaterno": "Videla",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2023-01-18T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2023-01-17T23:59:59",
+        "idPartido": "COMUNES",
+        "nombrePartido": "Partido Comunes",
+        "aliasPartido": "COMUNES"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1172",
+    "nombre1": "Stephan",
+    "nombre2": "",
+    "nombreCompleto": "Stephan Schubert Rubio",
+    "apellidoPaterno": "Schubert",
+    "apellidoMaterno": "Rubio",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1076",
+    "nombre1": "Alexis",
+    "nombre2": "",
+    "nombreCompleto": "Alexis Sepúlveda Soto",
+    "apellidoPaterno": "Sepúlveda",
+    "apellidoMaterno": "Soto",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PR",
+        "nombrePartido": "Partido Radical de Chile",
+        "aliasPartido": "PR"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PR",
+        "nombrePartido": "Partido Radical de Chile",
+        "aliasPartido": "PR"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1173",
+    "nombre1": "Daniela",
+    "nombre2": "",
+    "nombreCompleto": "Daniela Serrano Salazar",
+    "apellidoPaterno": "Serrano",
+    "apellidoMaterno": "Salazar",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1002",
+    "nombre1": "Leonardo",
+    "nombre2": "",
+    "nombreCompleto": "Leonardo Soto Ferrada",
+    "apellidoPaterno": "Soto",
+    "apellidoMaterno": "Ferrada",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1077",
+    "nombre1": "Raúl",
+    "nombre2": "",
+    "nombreCompleto": "Raúl Soto Mardones",
+    "apellidoPaterno": "Soto",
+    "apellidoMaterno": "Mardones",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2019-08-25T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      },
+      {
+        "fechaInicio": "2019-08-26T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PPD",
+        "nombrePartido": "Partido Por la Democracia",
+        "aliasPartido": "PPD"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1174",
+    "nombre1": "Marco Antonio",
+    "nombre2": "",
+    "nombreCompleto": "Marco Antonio Sulantay Olivares",
+    "apellidoPaterno": "Sulantay",
+    "apellidoMaterno": "Olivares",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1175",
+    "nombre1": "Cristián",
+    "nombre2": "",
+    "nombreCompleto": "Cristián Tapia Ramos",
+    "apellidoPaterno": "Tapia",
+    "apellidoMaterno": "Ramos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1176",
+    "nombre1": "Hotuiti",
+    "nombre2": "",
+    "nombreCompleto": "Hotuiti Teao Drago",
+    "apellidoPaterno": "Teao",
+    "apellidoMaterno": "Drago",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1177",
+    "nombre1": "Carolina",
+    "nombre2": "",
+    "nombreCompleto": "Carolina Tello Rojas",
+    "apellidoPaterno": "Tello",
+    "apellidoMaterno": "Rojas",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-05-13T23:59:59",
+        "idPartido": "PC",
+        "nombrePartido": "Partido Comunista",
+        "aliasPartido": "PC"
+      },
+      {
+        "fechaInicio": "2024-05-14T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1003",
+    "nombre1": "Renzo",
+    "nombre2": "",
+    "nombreCompleto": "Renzo Trisotti Martínez",
+    "apellidoPaterno": "Trisotti",
+    "apellidoMaterno": "Martínez",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-04-16T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2024-04-17T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2014-03-11T00:00:00",
+        "fechaTermino": "2018-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1178",
+    "nombre1": "Héctor",
+    "nombre2": "",
+    "nombreCompleto": "Héctor Ulloa Aguilera",
+    "apellidoPaterno": "Ulloa",
+    "apellidoMaterno": "Aguilera",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1081",
+    "nombre1": "Francisco",
+    "nombre2": "",
+    "nombreCompleto": "Francisco Undurraga Gazitúa",
+    "apellidoPaterno": "Undurraga",
+    "apellidoMaterno": "Gazitúa",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "EVOP",
+        "nombrePartido": "Evolución Política",
+        "aliasPartido": "EVOP"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "EVOP",
+        "nombrePartido": "Evolución Política",
+        "aliasPartido": "EVOP"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1179",
+    "nombre1": "Alberto",
+    "nombre2": "",
+    "nombreCompleto": "Alberto Undurraga Vicuña",
+    "apellidoPaterno": "Undurraga",
+    "apellidoMaterno": "Vicuña",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "DC",
+        "nombrePartido": "Partido Demócrata Cristiano",
+        "aliasPartido": "DC"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1082",
+    "nombre1": "Cristóbal",
+    "nombre2": "",
+    "nombreCompleto": "Cristóbal Urruticoechea Ríos",
+    "apellidoPaterno": "Urruticoechea",
+    "apellidoMaterno": "Ríos",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2021-06-13T23:59:59",
+        "idPartido": "RN",
+        "nombrePartido": "Renovación Nacional",
+        "aliasPartido": "RN"
+      },
+      {
+        "fechaInicio": "2021-06-14T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-10-14T23:59:59",
+        "idPartido": "PREP",
+        "nombrePartido": "Partido Republicano",
+        "aliasPartido": "PREP"
+      },
+      {
+        "fechaInicio": "2024-10-15T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1180",
+    "nombre1": "Consuelo",
+    "nombre2": "",
+    "nombreCompleto": "Consuelo Veloso Ávila",
+    "apellidoPaterno": "Veloso",
+    "apellidoMaterno": "Ávila",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-05-30T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2024-05-31T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1181",
+    "nombre1": "Nelson",
+    "nombre2": "",
+    "nombreCompleto": "Nelson Venegas Salazar",
+    "apellidoPaterno": "Venegas",
+    "apellidoMaterno": "Salazar",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "PS",
+        "nombrePartido": "Partido Socialista",
+        "aliasPartido": "PS"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1182",
+    "nombre1": "Sebastián",
+    "nombre2": "",
+    "nombreCompleto": "Sebastián Videla Castillo",
+    "apellidoPaterno": "Videla",
+    "apellidoMaterno": "Castillo",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  },
+  {
+    "idDiputado": "917",
+    "nombre1": "Gastón",
+    "nombre2": "",
+    "nombreCompleto": "Gastón Von Mühlenbrock Zamora",
+    "apellidoPaterno": "Von Mühlenbrock",
+    "apellidoMaterno": "Zamora",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2006-03-11T00:00:00",
+        "fechaTermino": "2010-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2010-03-11T00:00:00",
+        "fechaTermino": "2014-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      },
+      {
+        "fechaInicio": "2002-03-11T00:00:00",
+        "fechaTermino": "2006-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1183",
+    "nombre1": "Flor",
+    "nombre2": "",
+    "nombreCompleto": "Flor Weisse Novoa",
+    "apellidoPaterno": "Weisse",
+    "apellidoMaterno": "Novoa",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "UDI",
+        "nombrePartido": "Unión Demócrata Independiente",
+        "aliasPartido": "UDI"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1086",
+    "nombre1": "Gonzalo",
+    "nombre2": "",
+    "nombreCompleto": "Gonzalo Winter Etcheberry",
+    "apellidoPaterno": "Winter",
+    "apellidoMaterno": "Etcheberry",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2018-04-05T00:00:00",
+        "fechaTermino": "2020-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2018-04-04T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2020-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1087",
+    "nombre1": "Gael",
+    "nombre2": "",
+    "nombreCompleto": "Gael Yeomans Araya",
+    "apellidoPaterno": "Yeomans",
+    "apellidoMaterno": "Araya",
+    "sexo": "Femenino",
+    "militancias": [
+      {
+        "fechaInicio": "2019-04-17T00:00:00",
+        "fechaTermino": "2020-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      },
+      {
+        "fechaInicio": "2018-03-11T00:00:00",
+        "fechaTermino": "2019-04-16T23:59:59",
+        "idPartido": "RD",
+        "nombrePartido": "Revolución Democrática",
+        "aliasPartido": "RD"
+      },
+      {
+        "fechaInicio": "2020-03-11T00:00:00",
+        "fechaTermino": "2022-03-10T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2022-03-11T00:00:00",
+        "fechaTermino": "2024-07-02T23:59:59",
+        "idPartido": "PCS",
+        "nombrePartido": "Partido Convergencia Social",
+        "aliasPartido": "PCS"
+      },
+      {
+        "fechaInicio": "2024-07-03T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "FA",
+        "nombrePartido": "Frente Amplio",
+        "aliasPartido": "FA"
+      }
+    ]
+  },
+  {
+    "idDiputado": "1184",
+    "nombre1": "Roberto",
+    "nombre2": "",
+    "nombreCompleto": "Roberto Celedón Fernández",
+    "apellidoPaterno": "Celedón",
+    "apellidoMaterno": "Fernández",
+    "sexo": "Masculino",
+    "militancias": [
+      {
+        "fechaInicio": "2025-01-08T00:00:00",
+        "fechaTermino": "2026-03-10T23:59:59",
+        "idPartido": "IND",
+        "nombrePartido": "Independientes",
+        "aliasPartido": "IND"
+      }
+    ]
+  }
+]
