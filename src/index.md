@@ -22,17 +22,37 @@ const selectedUser = view(createAutocomplete(_.sortBy(searchOptions, d => d.apel
 const imageURL = `https://www.camara.cl/img.aspx?prmID=GRCL${persona1.idDiputado}`
 ````
 
-<div class="row">
-  <div class="col-3">
-  ${persona1.nombreCompleto}<br>
-${html`<img width=100 src="${imageURL}" class="rounded-circle">`}
+```js
+html`
+<!-- Tarjeta de perfil ----------------------------------------------------->
+<div class="card shadow-sm border-0 mb-4" style="max-width:600px">
+  <div class="row g-0 align-items-center">
+    <!-- Foto + nombre -->
+    <div class="col-auto p-3 text-center">
+      <img src="${imageURL}"
+           alt="Foto de ${persona1.nombreCompleto}"
+           class="rounded-circle img-fluid"
+           style="width:96px;height:96px;object-fit:cover">
+      <div class="fw-semibold mt-2">${persona1.nombreCompleto}</div>
+    </div>
 
-  </div>  
-  <div class="col">
-  <h4>Militancia</h4>
-  ${persona1.militancias.map(d => html`<li>${moment(d.fechaInicio).format("D MMM YYYY")} - ${moment(d.fechaTermino).format("D MMM YYYY")}: ${d.nombrePartido}</li>`)}
+    <!-- Detalle de militancia -->
+    <div class="col p-3">
+      <h6 class="text-uppercase text-muted mb-2">Militancia</h6>
+      <ul class="list-group list-group-flush small">
+        ${persona1.militancias.map(d => html`
+          <li class="list-group-item px-0 border-0">
+            <span class="text-muted me-2">
+              ${moment(d.fechaInicio).format("D MMM YYYY")} – ${moment(d.fechaTermino).format("D MMM YYYY")}
+            </span>
+            <strong>${d.nombrePartido}</strong>
+          </li>`)}
+      </ul>
+    </div>
   </div>
-</div>
+</div>`
+```
+
 
 ```sql id=[registrosVotos]
 WITH data1 as (SELECT *
@@ -43,10 +63,9 @@ WHERE votos.idDiputado = ${persona1.idDiputado} AND fecha > '2022-03-10')
 SELECT count(*) as votaciones,
   SUM(CASE WHEN voto = 'Afirmativo' THEN 1 ELSE 0 END)::Int as Afirmativo,
   SUM(CASE WHEN voto = 'En Contra' THEN 1 ELSE 0 END)::Int as EnContra,
-  SUM(CASE WHEN voto = 'Abstención' THEN 1 ELSE 0 END)::Int as Abstención,
-  SUM(CASE WHEN voto = 'Dispensado' THEN 1 ELSE 0 END)::Int as Dispensado,
-  SUM(CASE WHEN voto = 'No Vota' THEN 1 ELSE 0 END)::Int as NoVota,
+  SUM(CASE WHEN voto = 'Abstención' THEN 1 ELSE 0 END)::Int as Abstención
 FROM data1
+WHERE voto IN ('Afirmativo', 'En Contra', 'Abstención')
 ```
 
 ```sql id=[rangoFechasVotaciones]
@@ -58,133 +77,151 @@ WHERE votos.idDiputado = ${persona1.idDiputado} AND fecha > '2022-03-10')
 SELECT MIN(fecha) as minFecha, MAX(fecha) as maxFecha
 FROM data1
 ```
-
-<div class="card">
-Entre ${moment(rangoFechasVotaciones.minFecha).format("DD MMM YYYY")} y ${moment(rangoFechasVotaciones.maxFecha).format("DD MMM YYYY")} hay ${registrosVotos.votaciones} votaciones con registros de ${persona1.nombre1} ${persona1.apellidoPaterno}
-<li> ${registrosVotos.Afirmativo} voto Afirmativo  
-<li> ${registrosVotos.EnContra} voto En Contra
-<li> ${registrosVotos.Abstención} voto Abstención
-<li> ${registrosVotos.Dispensado} voto Dispensado
-<li> ${registrosVotos.NoVota} No Vota
+<!-- Tarjeta de resumen --------------------------------------------------->
+<div class="card shadow-sm border-0 mb-4" style="max-width:650px">
+  <div class="card-body">
+    <p class="mb-2">
+      <strong>${persona1.nombreCompleto}</strong> emitió un voto válido
+      (Afirmativo, En Contra o Abstención) en
+      <strong>${registrosVotos.votaciones}</strong> votaciones entre
+      <span class="text-nowrap">${moment(rangoFechasVotaciones.minFecha).format("D MMM YYYY")}</span>
+      y
+      <span class="text-nowrap">${moment(rangoFechasVotaciones.maxFecha).format("D MMM YYYY")}</span>
+    </p>
+    <ul class="list-inline mb-3 fs-6">
+      <li class="list-inline-item me-3">
+        <span class="badge bg-success me-1">${registrosVotos.Afirmativo}</span>Afirmativo</span>
+      </li>
+      <li class="list-inline-item me-3">
+        <span class="badge bg-danger  me-1">${registrosVotos.EnContra}</span>En Contra</span>
+      </li>
+      <li class="list-inline-item">
+        <span class="badge bg-warning text-dark me-1">${registrosVotos.Abstención}</span>Abstención</span>
+      </li>
+    </ul>
+    <p class="small mb-0">
+      Para cada diputada o diputado que participó en las mismas votaciones se
+      calcula la <strong>similitud</strong> (porcentaje de coincidencias) y su
+      complementaria <strong>distancia</strong>; más abajo se muestran los
+      resultados.
+    </p>
+  </div>
 </div>
-
-## Diputadas y diputados con mayor afinidad en votaciones
-
-```js
-const screenWidth = width
-const umbralWidth = 700;
-const tileWidth = screenWidth > umbralWidth ? umbralWidth / 10 : screenWidth / 5
-```
 
 ```js
 (() => {
   const top10 = _.chain(dataPlot)
-    .sortBy((d) => d.afinidad)
-    .reverse()
-    .slice(1, 11)
+    .sortBy(d => d.afinidad)   // asumimos 1 = idéntico
+    .reverse()                 // los más altos primero
+    .slice(1, 11)              // descartamos la propia persona
     .value();
 
-
   return html`
-<div class="row">
-${top10.map(
-  (d) =>
-    html`<div class="col flex-grow-0" style="min-width:${tileWidth}px"><img src="${`https://www.camara.cl/img.aspx?prmID=GRCL${d.idDiputado}`}" class="rounded-circle"><br>${
-      d.nombre
-    }</div>`
-)}
-</div>`;
+  <h6 class="text-uppercase text-muted mt-4 mb-2">Mayor afinidad</h6>
+  <div class="row row-cols-2 row-cols-sm-3 row-cols-md-5 g-3 text-center">
+    ${top10.map(d => html`
+      <div class="col">
+        <img class="rounded-circle mb-1 shadow-sm"
+             src="https://www.camara.cl/img.aspx?prmID=GRCL${d.idDiputado}"
+             style="width:72px;height:72px;object-fit:cover">
+        <div class="small">${d.nombre}</div>
+      </div>`)}
+  </div>`;
 })()
 ```
 
-## Diputadas y diputados con menor afinidad en votaciones
+
 ```js
 (() => {
   const bottom10 = _.chain(dataPlot)
-    .sortBy((d) => d.afinidad)
-    .reverse()
-    .slice(-10)
+    .sortBy(d => d.afinidad)   // los más bajos primero
+    .slice(0, 10)
     .value();
 
-  const umbralWidth = 800;
-
   return html`
-<div class="row">
-${bottom10.map(
-  (d) =>
-    html`<div class="col flex-grow-0 small" style="min-width:${tileWidth}px"><img  src="${`https://www.camara.cl/img.aspx?prmID=GRCL${d.idDiputado}`}" class="rounded-circle"><br>${
-      d.nombre
-    }</div>`
-)}
-</div>`;
+  <h6 class="text-uppercase text-muted mt-4 mb-2">Menor afinidad</h6>
+  <div class="row row-cols-2 row-cols-sm-3 row-cols-md-5 g-3 text-center">
+    ${bottom10.map(d => html`
+      <div class="col">
+        <img class="rounded-circle mb-1 shadow-sm"
+             src="https://www.camara.cl/img.aspx?prmID=GRCL${d.idDiputado}"
+             style="width:72px;height:72px;object-fit:cover">
+        <div class="small">${d.nombre}</div>
+      </div>`)}
+  </div>`;
 })()
 ```
 
-<div class="row">
 
-<div class="card col">
-
-${chart}
-
+<div class="card shadow-sm border-0 mb-4">
+  <div class="card-header bg-light fw-semibold">
+    Distancia de votación frente a ${persona1.nombre1} ${persona1.apellidoPaterno}
+    <div class="text-muted small fw-normal">
+      Distancia = % de votaciones compartidas con votos distintos
+    </div>
+  </div>
+  <div class="card-body p-0">
+    ${chart}
+  </div>
 </div>
 
-</div>
 
 ```js
 const chart = (() => {
-  const chart = Plot.plot({
-    height: 780,
-    width:screenWidth,
+  // Alto dinámico: 38-40 px por diputada/o + espacio superior
+  const barHeight   = 40;
+  //const chartHeight = dataPlot.length * barHeight + 60;
+  const chartHeight = 800;
+
+  return Plot.plot({
+    height: chartHeight,
+    width,                       // variable reactiva de Observable
     marginTop: 50,
-    y: { reverse: true, label: "Distancia", tickFormat: "%" },
+    marginLeft: 60,
+    marginRight: 20,
+    grid: true,                  // líneas horizontales de ayuda
+    y: {
+      reverse: true,
+      label: "Distancia",
+      tickFormat: d => d3.format(".0%")(d), // 0 %, 20 %…
+      ticks: 6
+    },
+
     marks: [
+      /* retratos del resto -----------------------------*/
       Plot.image(
-        dataPlot.filter((d) => d.idDiputado !== persona1.idDiputado),
+        dataPlot.filter(d => d.idDiputado !== persona1.idDiputado),
         Plot.dodgeX(
-          { anchor: "middle" },
+          {anchor: "middle"},
           {
-            y: (d) => 1 - d["afinidad"],
-            r: 15,
+            y: d => 1 - d.afinidad,   // distancia = 1 - afinidad
+            r: 16,
             src: "imageUrl",
-            preserveAspectRatio: "xMidYMin slice", // try not to clip heads
-            tip: true,
-            title: (d) => `${d.nombre}\ndistancia: ${d.distancia}`,
-            channels: { nombre: "nombre", distancia: "distancia" }
+            preserveAspectRatio: "xMidYMin slice",
+            title: d => `${d.nombre}\nDistancia: ${d3.format(".0%")(1 - d.afinidad)}`,
+            tip: true
           }
         )
       ),
-      Plot.image(
-        dataPlot.filter((d) => d.idDiputado == persona1.idDiputado),
-        Plot.dodgeX(
-          { anchor: "middle" },
-          {
-            y: (d) => 1 - d["afinidad"],
-            r: 20,
-            src: "imageUrl",
-            preserveAspectRatio: "xMidYMin slice", // try not to clip heads
 
-            tip: false,
-            channels: { nombre: "nombre" }
-          }
-        )
+      /* contorno + retrato de la persona objetivo ------*/
+      Plot.dot(
+        dataPlot.filter(d => d.idDiputado === persona1.idDiputado),
+        {y: d => 1 - d.afinidad, r: 22, stroke: "dodgerblue", fill: "none", strokeWidth: 3}
+      ),
+      Plot.image(
+        dataPlot.filter(d => d.idDiputado === persona1.idDiputado),
+        {y: d => 1 - d.afinidad, r: 18, src: "imageUrl", preserveAspectRatio: "xMidYMin slice"}
       ),
       Plot.text(
-        dataPlot.filter((d) => d.idDiputado == persona1.idDiputado),
-        Plot.dodgeX(
-          { anchor: "middle" },
-          {
-            y: (d) => 1 - d["afinidad"],
-            text: "nombre",
-            dy: -30
-          }
-        )
+        dataPlot.filter(d => d.idDiputado === persona1.idDiputado),
+        {y: d => 1 - d.afinidad, text: "nombre", dy: -28, fontSize: 11, textAnchor: "middle"}
       )
     ]
   });
-  d3.select(chart).selectAll("image").on("mouseup", onclick);
-  return chart;
 })();
 ```
+
 
 
 
@@ -356,13 +393,26 @@ function createAutocomplete(items = [], {
       form.value = value; // Fallback to raw input value
     }
 
-    input.blur(); // Dismiss keyboard (mobile)
+    // ---- close the datalist dropdown on desktop ----
+    datalist.innerHTML = "";          // remove every option
+    input.removeAttribute("list");    // detach, forces the overlay to disappear
+    // re-attach on the next tick so autocomplete keeps working
+    setTimeout(() => {
+      input.setAttribute("list", datalist.id);
+      input.blur();                   // SACA el foco del campo
+    }, 0);
+
+    //input.blur(); // Dismiss keyboard (mobile)
     form.dispatchEvent(new CustomEvent("input"));
   };
 
   // Handle input event for suggestions
   input.oninput = async (event) => {
     const value = event.target.value.trim();
+    if (!value) return;
+
+    // Always clear previous suggestions first
+    datalist.innerHTML = "";
     if (!value) return;
 
     // Fetch suggestions
@@ -382,8 +432,9 @@ function createAutocomplete(items = [], {
 
   // Clear input on focus
   input.onfocus = () => {
-    input.value = ""; // Clear the input so the user can type a new search
+    if (input.value === form.value) input.value = "";
   };
+
 
   return form;
 }
