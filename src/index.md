@@ -40,13 +40,15 @@ html`
     <div class="col p-3">
       <h6 class="text-uppercase text-muted mb-2">Militancia</h6>
       <ul class="list-group list-group-flush small">
-        ${persona1.militancias.map(d => html`
+        ${_.chain(persona1.militancias)
+        .sortBy(d => d.fechaInicio)
+        .map(d => html`
           <li class="list-group-item px-0 border-0">
             <span class="text-muted me-2">
               ${moment(d.fechaInicio).format("D MMM YYYY")} – ${moment(d.fechaTermino).format("D MMM YYYY")}
             </span>
             <strong>${d.nombrePartido}</strong>
-          </li>`)}
+          </li>`).value()}
       </ul>
     </div>
   </div>
