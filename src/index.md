@@ -12,7 +12,7 @@ sql:
 const selectedUser = view(createAutocomplete(_.sortBy(searchOptions, d => d.apellidoPaterno), {
   searchFields: ["nombreCompleto"],
   formatFn: d => `${d.nombreCompleto}`,
-  defaultValue: diputados[0].handle, // Change this to an actual handle from your data
+  defaultValue: _.sample(diputados).handle, // Change this to an actual handle from your data
   label: "Seleccione diputada o diputado",
   description: null//`Lista compuesta por quienes siguen a ${defaultUser}`
 }));
@@ -266,7 +266,7 @@ const searchOptions = diputados.map(d => ({
 ```js
 const persona1  = diputados.find(
   (d) => getFullName(d.idDiputado) == selectedUser
-) || diputados[0]
+) || _.sample(diputados)
 ```
 
 ```js
